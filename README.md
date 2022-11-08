@@ -1,1 +1,3 @@
-# leetcode_python3
+# leetcode - python3
+
+* Description and soloved code
